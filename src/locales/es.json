@@ -1,5 +1,39 @@
 {
   "home": {
-    "text": "hola"
+    "hero": {
+      "title": "Hey, soy",
+      "welcome": "Bienvenido a mi portfolio",
+      "text_1": "+4 años de experiencia en",
+      "text_2": "Desarrollo web"
+    },
+    "experience": {
+      "title": "Experiencia laboral",
+      "experiences": [
+        {
+          "company": "BOP Solutions LLC",
+          "position": "Desarrollador front-end",
+          "period": "Diciembre 2021 - Diciembre 2023",
+          "description": "Desarrollé y diseño de aplicaciones web front-end en Vue JS y React enfocadas en mayormente en el área de la salud y telemedicina. Mantenimiento y soporte a aplicaciones web front-end en Vue Js y ReactJs. Mantenimiento y soporte a API's de NodeJS. Manejé de Bases de datos: Firebase (Firestore, Realtime Database), MongoDB, SQL Server. Integraciones con herramientas de comunicaciones para llamadas de audio y video como Twilio y Vonage."
+        },
+        {
+          "company": "Freelance",
+          "position": "Desarrollador de Python",
+          "period": "Noviembre 2022 - Abril 2023",
+          "description": "Trabajé en un proyecto de seguros hecho sobre Python, más específicamente usando Flask, SQLAlchemy."
+        },
+        {
+          "company": "Freelance",
+          "position": "Desarrollador full-stack",
+          "period": "Abril 2019 - Diciembre 2021",
+          "description": "Desarrollé una aplicación de escritorio en Java para la gestión del historial clínico de pacientes odontológicos. Trabajé dando mantenimiento y soporte a una API de NodeJS hecha con NestJS."
+        },
+        {
+          "company": "Emdiem Creative Lab",
+          "position": "Desarrollador front-end",
+          "period": "Septiembre 2020 - Julio 2021",
+          "description": "Desarrollé y diseñé aplicaciones web front-end en Vue JS. Trabajé en proyectos de Wordpress, creando páginas y administrando contenido de estas. Manejé Bases de datos de Firestore y Parse Server. Desarrollé e implementé aplicaciones back-end haciendo uso de NodeJS y ExpressJS."
+        }
+      ]
+    }
   }
 }

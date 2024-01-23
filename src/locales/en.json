@@ -1,5 +1,39 @@
 {
   "home": {
-    "text": "hello"
+    "hero": {
+      "title": "Hey, I'm",
+      "welcome": "Welcome to my portfolio",
+      "text_1": "+4 years of experience in",
+      "text_2": "Web development"
+    },
+    "experience": {
+      "title": "Work experience",
+      "experiences": [
+        {
+          "company": "BOP Solutions LLC",
+          "position": "Front-end developer",
+          "period": "December 2021 - December 2023",
+          "description": "Development and design of front-end web applications in Vue JS and React focused mostly on healthcare and telemedicine. Maintenance and support of front-end web applications in Vue Js and ReactJs. Maintenance and support to NodeJS API's. Database management: Firebase (Firestore, Realtime Database), MongoDB, SQL Server. Integrations with communication tools for audio and video calls such as Twilio and Vonage."
+        },
+        {
+          "company": "Freelance",
+          "position": "Python Developer",
+          "period": "November 2022 - April 2023",
+          "description": "Worked on an insurance project made with Python, more specifically using Flask, SQLAlchemy."
+        },
+        {
+          "company": "Freelance",
+          "position": "Full-stack developer",
+          "period": "April 2019 - December 2021",
+          "description": "I developed a desktop application in Java for managing the clinical history of dental patients. I worked giving maintenance and support to a NodeJS API made with NestJS."
+        },
+        {
+          "company": "Emdiem Creative Lab",
+          "position": "Front-end developer",
+          "period": "September 2020 - July 2021",
+          "description": "I developed and designed front-end web applications in Vue JS. I worked on Wordpress projects, creating pages and managing their content. I managed Firestore and Parse Server databases. I developed and implemented back-end applications using NodeJS and ExpressJS."
+        }
+      ]
+    }
   }
 }

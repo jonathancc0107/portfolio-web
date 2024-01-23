@@ -5,6 +5,9 @@
         <button v-if="localeSelected" type="button" data-dropdown-toggle="language-dropdown-menu" class="inline-flex items-center font-medium justify-center px-4 py-2 text-sm text-white rounded-lg cursor-pointer hover:bg-gray-700">
           <img class="h-4 w-4 me-2" :src="getImageUrl(localeSelected.flag)" :alt="`flag-${localeSelected.lang}`">           
           {{ localeSelected.label }}
+          <svg class="w-2.5 h-2.5 ms-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"/>
+          </svg>
         </button>
         <div class="z-50 hidden my-4 text-base list-none divide-y divide-gray-100 rounded-lg shadow bg-gray-700" id="language-dropdown-menu">
           <ul class="py-2 font-medium" role="none">
