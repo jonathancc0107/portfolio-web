@@ -3,8 +3,13 @@
     "hero": {
       "title": "Hey, I'm",
       "welcome": "Welcome to my portfolio",
+      "available": "Available to work",
       "text_1": "+4 years of experience in",
-      "text_2": "Web development"
+      "text_2": "Web development",
+      "download": "Download CV"
+    },
+    "social": {
+      "titles": ["E-mail", "Social"]
     },
     "experience": {
       "title": "Work experience",
