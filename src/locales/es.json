@@ -4,12 +4,16 @@
       "title": "Hey, soy",
       "welcome": "Bienvenido a mi portfolio",
       "available": "Disponible para trabajar",
-      "text_1": "+4 años de experiencia en",
-      "text_2": "Desarrollo web",
+      "text": ["Desarrollador web full stack", "con", "+4 años de experiencia", "en el desarollo de aplicaciones únicas"],
       "download": "Descargar CV"
     },
     "social": {
       "titles": ["E-mail", "Social"]
+    },
+    "aboutMe": {
+      "title": "Acerca de mí",
+      "text_1": "Soy un ingeniero de sistemas y desarrollador full stack con más de 4 años de experiencia, enfocado en el desarrollo de aplicaciones web. Me considero alguien muy activo y participativo, a quién le gusta trabajar en equipo y aprender cosas nuevas, además de contar con habilidades de liderazgo.",
+      "text_2": "Me especializo en el área front end con los frameworks de javascript VueJS y React. Por parte del backend, he trabajado con NodeJS, específicamente usando ExpressJS y NestJS. Tengo conocimiento sobre el manejo bases de datos SQL y NoSQL (MongoDB, Firebase, SQL Server). También cuento con conocimientos en Git, Java, Python, Bootstrap HTML5, CSS."
     },
     "experience": {
       "title": "Experiencia laboral",

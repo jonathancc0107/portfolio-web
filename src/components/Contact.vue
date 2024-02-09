@@ -1,5 +1,5 @@
 <template>
-  <section id="contact" class="section mx-auto lg:w-[740px] w-full pb-24">
+  <section id="contact" class="section mx-auto lg:w-[740px] w-full pb-12">
     <div class="mb-5">
       <h1 class="text-2xl text-white font-bold mb-3">
         <span class="material-icons-outlined align-middle">email</span>

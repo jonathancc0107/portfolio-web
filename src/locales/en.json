@@ -4,12 +4,16 @@
       "title": "Hey, I'm",
       "welcome": "Welcome to my portfolio",
       "available": "Available to work",
-      "text_1": "+4 years of experience in",
-      "text_2": "Web development",
+      "text": ["Web developer full stack", "with", "+4 years of experience", "in developing unique applications"],
       "download": "Download CV"
     },
     "social": {
       "titles": ["E-mail", "Social"]
+    },
+    "aboutMe": {
+      "title": "Acerca de mí",
+      "text_1": "I am a systems engineer and full stack developer with more than 4 years of experience, focused on developing web applications. I consider myself someone very active and participative, who likes to work in a team and learn new things, as well as having leadership skills.",
+      "text_2": "I specialize in the VueJS and React javascript frameworks for the Front End. On the Back End side, my specialty is NodeJS, and I have worked with ExpressJS and NestJS. I manage SQL and NoSQL databases (MongoDB, Firebase, SQL Server). I also have knowledge in Java, Python, Bootstrap HTML5, CSS, and Git."
     },
     "experience": {
       "title": "Work experience",
